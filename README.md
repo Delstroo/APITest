@@ -1,4 +1,11 @@
 # APITest
+This is a simple Flask application that provides endpoints for retrieving and creating user data.
 
-## Install 
-Needs to install Flask.
+## Setup
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone <repository-url>
+   cd <repository-directory>
+
