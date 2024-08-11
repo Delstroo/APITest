@@ -9,3 +9,6 @@ This is a simple Flask application that provides endpoints for retrieving and cr
    git clone <repository-url>
    cd <repository-directory>
 
+2. Install Flask
+`python -m pip install flask`
+
